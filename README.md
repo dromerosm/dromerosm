@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dromerosm
-- 👀 I’m interested in NLP and Quantum AI
-- 🌱 I’m currently learning Quantum Computing basics
-- 💞️ I’m looking to collaborate on NLP and QAI
+- I'm working on Generative AI
+- I’m interested in AI and its applications
+
 - 📫 How to reach me > LinkedIn > https://www.linkedin.com/in/diegoromerosm/
 
 <!---
