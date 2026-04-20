@@ -29,6 +29,9 @@ I am most interested in questions like:
 - [aa-llm-benchmarking](https://github.com/dromerosm/aa-llm-benchmarking)  
   Cloudflare Worker app for exploring and visualizing Artificial Analysis benchmark data.
 
+- [realtime-voice-assistant](https://github.com/dromerosm/realtime-voice-assistant)  
+  Lightweight realtime voice assistant prototype focused on practical voice AI interaction patterns.
+
 - [cb-api-chatgpt-plugin](https://github.com/dromerosm/cb-api-chatgpt-plugin)  
   Early example of connecting conversational interfaces to real APIs.
 
